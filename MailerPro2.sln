@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2", "MailerPro2\MailerPro2.csproj", "{7CC8AFEE-96AF-45DA-A935-0DAA15702085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Data", "MailerPro2.Data\MailerPro2.Data.csproj", "{919476DE-7A78-4188-A23C-A9EA81F58C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Models", "MailerPro2.Models\MailerPro2.Models.csproj", "{C3D88F24-D701-4B75-95B5-C66E2676C27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Services", "MailerPro2.Services\MailerPro2.Services.csproj", "{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{7CC8AFEE-96AF-45DA-A935-0DAA15702085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC8AFEE-96AF-45DA-A935-0DAA15702085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC8AFEE-96AF-45DA-A935-0DAA15702085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919476DE-7A78-4188-A23C-A9EA81F58C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919476DE-7A78-4188-A23C-A9EA81F58C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919476DE-7A78-4188-A23C-A9EA81F58C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919476DE-7A78-4188-A23C-A9EA81F58C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D88F24-D701-4B75-95B5-C66E2676C27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D88F24-D701-4B75-95B5-C66E2676C27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D88F24-D701-4B75-95B5-C66E2676C27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D88F24-D701-4B75-95B5-C66E2676C27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
