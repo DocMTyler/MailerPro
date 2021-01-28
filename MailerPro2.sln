@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2", "MailerPro2\MailerPro2.csproj", "{7CC8AFEE-96AF-45DA-A935-0DAA15702085}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.MVC", "MailerPro2\MailerPro2.MVC.csproj", "{7CC8AFEE-96AF-45DA-A935-0DAA15702085}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Data", "MailerPro2.Data\MailerPro2.Data.csproj", "{919476DE-7A78-4188-A23C-A9EA81F58C48}"
 EndProject

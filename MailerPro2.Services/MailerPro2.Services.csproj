@@ -61,5 +61,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MailerPro2.Data\MailerPro2.Data.csproj">
+      <Project>{919476DE-7A78-4188-A23C-A9EA81F58C48}</Project>
+      <Name>MailerPro2.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailerPro2.Models\MailerPro2.Models.csproj">
+      <Project>{C3D88F24-D701-4B75-95B5-C66E2676C27E}</Project>
+      <Name>MailerPro2.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

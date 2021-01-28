@@ -18,5 +18,7 @@ namespace MailerPro2.Models
 
         public string State { get; set; }
 
+        public int ZipCode { get; set; }
+
     }
 }
