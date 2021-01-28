@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Data", "MailerPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Models", "MailerPro2.Models\MailerPro2.Models.csproj", "{C3D88F24-D701-4B75-95B5-C66E2676C27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Services", "MailerPro2.Services\MailerPro2.Services.csproj", "{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerPro2.Service", "MailerPro2.Services\MailerPro2.Service.csproj", "{E0D87AA1-4ACE-40A7-8263-A93FDB46C33A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

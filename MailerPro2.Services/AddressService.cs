@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace MailerPro2.Services
 {
-    public class AddressServices
+    public class AddressService
     {
         private readonly ApplicationDbContext _address = new ApplicationDbContext();
 
         private readonly Guid _userID;
 
-        public AddressServices(Guid userID)
+        public AddressService(Guid userID)
         {
-            userID = _userID;
+            _userID = userID;
         }
 
         public bool AddAddress(AddressAdd model)
@@ -67,7 +67,7 @@ namespace MailerPro2.Services
             };
         }
 
-        public bool Updateaddress(AddressUpdate model)
+        public bool UpdateAddress(AddressUpdate model)
         {
             var addressEntry = _address.Addresses.Single(l => l.ID == model.ID);
 
