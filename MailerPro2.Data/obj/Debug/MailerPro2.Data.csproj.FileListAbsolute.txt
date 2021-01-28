@@ -1,0 +1,16 @@
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\MailerPro2.Data.dll.config
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\MailerPro2.Data.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\MailerPro2.Data.pdb
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\EntityFramework.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\EntityFramework.xml
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\obj\Debug\MailerPro2.Data.csprojAssemblyReference.cache
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\obj\Debug\MailerPro2.Data.csproj.CoreCompileInputs.cache
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\obj\Debug\MailerPro2.Data.csproj.CopyComplete
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\obj\Debug\MailerPro2.Data.dll
+C:\Users\mtyle\Desktop\Projects\MailerPro2\MailerPro2.Data\obj\Debug\MailerPro2.Data.pdb

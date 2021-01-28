@@ -6,6 +6,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using MailerPro2.Models;
+using MailerPro2.Data;
 
 namespace MailerPro2
 {

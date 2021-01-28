@@ -11,6 +11,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MailerPro2.Models;
+using MailerPro2.Data;
 
 namespace MailerPro2
 {
