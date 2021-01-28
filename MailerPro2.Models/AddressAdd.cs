@@ -8,6 +8,8 @@ namespace MailerPro2.Models
 {
     public class AddressAdd
     {
+        public int ID { get; set; }
+
         public string FullName { get; set; }
 
         public string StreetAddress { get; set; }
