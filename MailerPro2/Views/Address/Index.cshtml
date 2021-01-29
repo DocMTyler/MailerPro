@@ -3,11 +3,11 @@
     ViewBag.Title = "Address List";
 }
 
-<h2>Address List</h2>
 
-<h2 style="text-align:center;font-family:Impact">Address List</h2>
 
-<p style="text-align:center">
+<h2 style="text-align:center;font-family:'Courier New'">Address List</h2>
+
+<p style="text-align:center;font-family:'Courier New'">
     @Html.ActionLink("Create New Address Entry", "Create")
 </p>
 
@@ -22,31 +22,31 @@
     </div>
 }
 
-<table class="table" style="text-align:center">
+<table class="table" style="text-align:center;font-family:'Courier New'">
     <tr style=" border-bottom:1px solid black">
-        <th style="color:red">
-            @Html.DisplayNameFor(model => model.ID)
-        </th>
-        <th style="color:dodgerblue">
-            @Html.DisplayNameFor(model => model.FullName)
-        </th>
-        <th style="color:red">
-            @Html.DisplayNameFor(model => model.StreetAddress)
-        </th>
-        <th style="color:dodgerblue">
-            @Html.DisplayNameFor(model => model.City)
-        </th>
-        <th style="color:red">
-            @Html.DisplayNameFor(model => model.State)
-        </th>
-        <th style="color:dodgerblue">
-            @Html.DisplayNameFor(model => model.ZipCode)
-        </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StreetAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.State)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ZipCode)
+            </th>
     </tr>
 
     @foreach (var item in Model)
     {
-        <tr style="font-family:Arial, Helvetica, sans-serif">
+        <tr style="font-family:'Courier New', Helvetica, sans-serif">
             <td>
                 @Html.DisplayFor(modelItem => item.ID)
             </td>
